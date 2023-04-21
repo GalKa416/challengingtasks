@@ -11,6 +11,14 @@ public class Main {
         int result = a * (b + (c - d * e));
         result = result * (-1);
         System.out.println(result);
+        //task 7
+        System.out.println("2");
+        int x = 5;
+        int y = 7;
+        x=x+2;
+        y=y-2;
+        System.out.println(x+", "+y);
+
 
     }
 }
