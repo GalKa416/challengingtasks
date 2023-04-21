@@ -18,6 +18,13 @@ public class Main {
         x=x+2;
         y=y-2;
         System.out.println(x+", "+y);
+        //task 8
+        System.out.println(3);
+        int m = 398;
+        int k = (m%100-m%10)/10;
+        System.out.println(k);
+
+
 
 
     }
